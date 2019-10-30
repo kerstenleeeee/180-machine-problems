@@ -5,7 +5,10 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
+* [Machine Problem 1](#machine-problem-1)
+* [Machine Problem 2](#machine-problem-2)
+* [Machine Problem 3](#machine-problem-3)
+* [Machine Problem 4-5](#machine-problem-4-5)
 
 <!-- MP1 -->
 ## Machine Problem 1
